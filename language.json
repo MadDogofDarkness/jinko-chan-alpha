@@ -1,0 +1,120 @@
+[
+    {
+        "english": "the english language is the primary language of the united states of america, as well as europe"
+    },
+    {
+        "sentence": "a phrase composed of a subject and a predicate",
+        "relations": [
+            "english",
+            "grammar",
+            "structure",
+            "compound",
+            "simple",
+            "subject",
+            "predicate",
+            "writing",
+            "speech",
+            "simple_sentence"
+        ],
+        "representation": "sentence[subject, link, predicate]"
+    },
+    {
+        "subject": "the first part of the sentence describes the focus of the sentence",
+        "relations": [
+            "first",
+            "sentence",
+            "subject",
+            "predicate",
+            "english",
+            "focus"
+        ],
+        "representation": "sentence[0]"
+    },
+    {
+        "predicate": "the second part of the sentence the action or value ascribed to the subject",
+        "relations": [
+            "second",
+            "sentence",
+            "predicate",
+            "english",
+            "subject",
+            "action"
+        ],
+        "representation": "sentence[2]"
+    },
+    {
+        "link": "a word or words in a sentence which connect the subject with the predicate.",
+        "relations": [
+            "middle",
+            "connect",
+            "english",
+            "subject",
+            "predicate",
+            "sentence"
+        ],
+        "representation": "sentence[1]"
+    },
+    {
+        "simple_sentence_template": "a simplified sentence structure, containging a subject, link and predicate statement.",
+        "subject": [],
+        "link": [],
+        "predicate": [],
+        "statement_ness": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "links": [
+            "is",
+            "are",
+            "am",
+            "was",
+            "were",
+            "like"
+        ],
+        "relations": [
+            "sentence",
+            "link"
+        ]
+    },
+    {
+        "assignment_statement": "a simple sentence of a relation between the subect and the value of the predicate",
+        "assignment_words": [
+            "is"
+        ],
+        "relations": [
+            "statement",
+            ".",
+            "fact",
+            "is",
+            "sentence"
+        ]
+    },
+    {
+        "question_statement": "a query of the state of the subject, as given in the question or predicate",
+        "question_words": [
+            "who",
+            "what",
+            "when",
+            "where",
+            "why",
+            "how"
+        ]
+    },
+    {
+        "preference_statement": "a statement denoting the preference of the subject for the predicate",
+        "positive_preference-words": [
+            "like",
+            "love"
+        ],
+        "negative_preference-words": [
+            "dislike",
+            "don't",
+            "hate"
+        ]
+    }
+]

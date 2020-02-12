@@ -1,0 +1,26 @@
+[
+    {
+        "class": "Person",
+        "name": "",
+        "likes": [],
+        "dislikes": [],
+        "friends": [],
+        "enemies": [],
+        "mood": "",
+        "isFriend": true,
+        "discord_names":[]
+    },
+    {
+        "class": "Animal",
+        "name": "",
+        "description": "",
+        "emote": ""
+    },
+    {
+        "class": "Object",
+        "name": "",
+        "description": "",
+        "emote": "",
+        "related_to": []
+    }
+]

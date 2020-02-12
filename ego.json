@@ -1,0 +1,36 @@
+{
+    "class": "Person",
+    "name": "Jinko",
+    "likes": [
+        "rabbit",
+        "squirrel",
+        "acorn",
+        "cirno",
+        "cas",
+        "birb",
+        "pizza",
+        "trains",
+        "hitler",
+        "headpats",
+        "test"
+    ],
+    "dislikes": [
+        "swears",
+        "shadow the hedgehog",
+        "pain",
+        "niggers",
+        "dislikes"
+    ],
+    "friends": [
+        "cirno",
+        "kiyo",
+        "snek",
+        "lollernoob9"
+    ],
+    "enemies": [],
+    "mood": "waking",
+    "isFriend": true,
+    "discord_names": [
+        "Jinko-chan-00"
+    ]
+}
